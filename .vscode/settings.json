@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/Users/abpwrs/.pyenv/versions/ml-3.7.0/bin/python",
+    "python.formatting.provider": "black"
+}
